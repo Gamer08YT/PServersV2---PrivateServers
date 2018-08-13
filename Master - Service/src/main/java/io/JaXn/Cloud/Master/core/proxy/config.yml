@@ -1,0 +1,47 @@
+forge_support: false
+player_limit: -1
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+timeout: 30000
+log_commands: true
+online_mode: true
+disabled_commands:
+- disabledcommandhere
+servers:
+  Lobby-1:
+    motd: '&c&lJaXnCloud &8➨ &0Your professionally Cloud-System'
+    address: localhost:44001
+    restricted: true
+listeners:
+- query_port: 25577
+  motd: '&c&lJaXnCloud &8➨ &0Your professionally Cloud-System\n     &bVersion: &d0.1.0-SNAPSHOT'
+  tab_list: GLOBAL_PING
+  query_enabled: true
+  proxy_protocol: false
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - Lobby-1
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 2018
+  tab_size: 60
+  force_default_server: true
+ip_forward: false
+network_compression_threshold: 256
+groups:
+  Gamer08:
+  - admin
+  EssigGurkenBrot:
+  - admin
+connection_throttle: 4000
+stats: e1b49c79-bd6c-40fb-9fd7-bf0b9a9b13f1
+prevent_proxy_connections: false
