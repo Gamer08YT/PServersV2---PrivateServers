@@ -1,10 +1,5 @@
 | Description | Badge                                                        |
 | :---------- | :----------------------------------------------------------- |
-| **Star**    | [![Star this repo](https://githubbadges.com/star.svg?user=Gamer08YT&repo=PServersV2---PrivateServers
-)](https://github.com/Gamer08YT/PServersV2---PrivateServers) |
-| **Fork**    | [![Fork this repo](https://githubbadges.com/fork.svg?user=Gamer08YT&repo=PServersV2---PrivateServers
-)](https://github.com/Gamer08YT/PServersV2---PrivateServers
-/fork) |
 | **Discord**    | ![Discord](https://discordapp.com/api/guilds/364502809493897216/embed.png) |
 
 
